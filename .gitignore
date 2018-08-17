@@ -7,6 +7,7 @@ __pycache__/
 Data/.DS_Store
 Plots/.DS_Store
 Source/.DS_Store
+Source/.idea/
 
 # C extensions
 *.so
